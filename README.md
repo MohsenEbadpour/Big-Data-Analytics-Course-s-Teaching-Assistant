@@ -1,0 +1,2 @@
+# Big Data Analytics Course's Teaching Assistant
+In the Spring of 2024, I was the teaching assistant for the Big Data Analytics course held at **[Amirkabir University of Technology(AUT)](https://aut.ac.ir/en)** by **[Dr. M. H. Chehreghani](https://scholar.google.com/citations?user=8Hhu1Q8AAAAJ&hl=en)**. My responsibilities included project definition, question designing, and grading based on reports of students and their presentation.

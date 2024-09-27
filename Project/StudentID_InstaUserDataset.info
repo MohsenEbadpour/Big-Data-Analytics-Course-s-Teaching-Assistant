@@ -1,0 +1,37 @@
+[
+  {
+    "user_id": "@example_user1",
+    "followers": 500,
+    "following": 200,
+    "posts": 50,
+    "likes_per_page": {
+      "@example_page1": 20,
+      "@example_page2": 30
+    },
+    "comments_per_page": {
+      "@example_page1": 10,
+      "@example_page2": 5
+    },
+    "total_likes": 50,
+    "total_comments": 15,
+    
+    ...
+  },
+  {
+    "user_id": "@example_user2",
+    "followers": 1000,
+    "following": 300,
+    "posts": 100,
+    "likes_per_page": {
+      "@example_page1": 10,
+      "@example_page2": 50
+    },
+    "comments_per_page": {
+      "@example_page1": 5,
+      "@example_page2": 15
+    },
+    "total_likes": 60,
+    "total_comments": 20,
+    ...
+  }
+]
